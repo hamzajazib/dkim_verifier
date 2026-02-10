@@ -8,11 +8,12 @@ All notable changes to this project will be documented in this file.
 
 ### Fixes
 
-- Fix display of DKIM keys and sign rules in case the `navigator.userAgent` preference is set to an empty string.
+- Fix display of DKIM keys and sign rules in case the `navigator.userAgent` preference is set to an empty string (#560).
 
 ### Other
 
 - Added Russian translation.
+- Added Slovak translation (#562).
 
 ## 6.2.0 (2025-09-18)
 

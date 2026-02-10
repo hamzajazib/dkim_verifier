@@ -691,13 +691,13 @@
 		"message": "DKIM kľúč"
 	},
 	"treeviewKeys.treecol.insertedAt": {
-		"message": "Pridané",
+		"message": "Pridané"
 	},
 	"treeviewKeys.treecol.lastUsedAt": {
-		"message": "Naposledy použité",
+		"message": "Naposledy použité"
 	},
 	"treeviewKeys.treecol.secure": {
-		"message": "DNSSEC",
+		"message": "DNSSEC"
 	},
 	"treeviewKeys.deleteSelectedRows": {
 		"message": "Odstrániť vybrané kľúče"
@@ -820,4 +820,4 @@
 	"enabled.description": {
 		"message": "1 - ak je pravidlo povolené, 0 - ak je zakázané."
 	}
-}		
+}
